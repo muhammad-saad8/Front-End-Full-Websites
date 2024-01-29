@@ -3,7 +3,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/muhammad-saad8/Front-End-Projects-Multiple-Page-Website)](https://github.com/muhammad-saad8/Front-End-Projects-Multiple-Page-Website/graphs/contributors)
 [![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-saad8/Front-End-Projects-Multiple-Page-Website)](https://github.com/muhammad-saad8/Front-End-Projects-Multiple-Page-Website/commits/master)
 
-This repository contains a collection of frontend projects.Each project is built using HTML, CSS, and JavaScript.
+This repository contains a collection of frontend website.Each project is built using HTML, CSS, JavaScript and Phyton.
 
 ## Website Links 📂
 
